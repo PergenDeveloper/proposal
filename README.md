@@ -15,12 +15,12 @@ That way the fontend know exactly what is happening.
 
 The main classes to understand are `BaseMutation` and `ModelMutation`.
 
-## Instalar y activar un entorno virtual
+## Install and active virtual env
 > `python3 -m venv proposal`
 >
 > `source  proposal/bin/activate`
 
-## Clonar el proyecto
+## Download the project
 > `git clone https://github.com/PergenDeveloper/proposal.git`
 >
 > `cd proposal`
