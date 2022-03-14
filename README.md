@@ -11,7 +11,7 @@ to the front-end with the following schema without using graphene-django:
 }
 `
 
-That way the fontend now exactly what is happening.
+That way the fontend know exactly what is happening.
 
 The main classes to understand are `BaseMutation` and `ModelMutation`.
 
@@ -25,3 +25,6 @@ The main classes to understand are `BaseMutation` and `ModelMutation`.
 >
 > `cd proposal`
 > `pip install requirements.txt`
+
+
+I hope you like it 😊.
