@@ -6,7 +6,6 @@ from typing import Iterable, Tuple, Union
 
 from django.core.files.storage import default_storage
 from django.core.exceptions import (
-    NON_FIELD_ERRORS,
     ImproperlyConfigured,
     ValidationError,
 )
@@ -14,8 +13,6 @@ from django.db.models.fields.files import FileField
 
 import graphene
 from graphene.types.mutation import MutationOptions
-
-
 
 from ...core.exceptions import PermissionDenied
 from .types.errors import UploadError
