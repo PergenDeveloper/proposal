@@ -18,7 +18,7 @@ The main classes to understand are `BaseMutation` and `ModelMutation`.
 ## Instalar y activar un entorno virtual
 > `python3 -m venv proposal`
 >
-> `source  idea-api/bin/activate`
+> `source  proposal/bin/activate`
 
 ## Clonar el proyecto
 > `git clone https://github.com/PergenDeveloper/proposal.git`
