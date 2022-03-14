@@ -1,7 +1,7 @@
 # PROPOSAL
 
 This project is a proposal of how manage validation in mutations and return custom errors
-to the front-end with the following schema without using graphene-django:
+to the front-end with the following schema without using graphene-django Forms:
 
 `
 {
