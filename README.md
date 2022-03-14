@@ -1,7 +1,7 @@
 # PROPOSAL
 
 This project is a proposal of how manage validation in mutations and return custom errors
-to the front-end with the following schema without using graphene-django:
+to the front-end with the following schema without using graphene-django Forms:
 
 `
 {
@@ -11,17 +11,21 @@ to the front-end with the following schema without using graphene-django:
 }
 `
 
-That way the fontend now exactly what is happening.
+That way the fontend know exactly what is happening.
 
 The main classes to understand are `BaseMutation` and `ModelMutation`.
 
-## Instalar y activar un entorno virtual
+## Install and active virtual env
 > `python3 -m venv proposal`
 >
-> `source  idea-api/bin/activate`
+> `source  proposal/bin/activate`
 
-## Clonar el proyecto
+## Download the project
 > `git clone https://github.com/PergenDeveloper/proposal.git`
 >
 > `cd proposal`
+> 
 > `pip install requirements.txt`
+
+
+I hope you like it 😊.
