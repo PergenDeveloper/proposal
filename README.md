@@ -24,6 +24,7 @@ The main classes to understand are `BaseMutation` and `ModelMutation`.
 > `git clone https://github.com/PergenDeveloper/proposal.git`
 >
 > `cd proposal`
+> 
 > `pip install requirements.txt`
 
 
